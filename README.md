@@ -1,6 +1,6 @@
 # Hindi-Movie-Review-Sentiment-Analysis
 
-##Requirements:
+## Requirements:
 
 1.python3 (Anaconda (pycahrm) environment is preferred)
 
@@ -16,7 +16,7 @@
 
 7.Codecs
 
-##How To Run:
+## How To Run:
 
 Download and uzip the file
 
